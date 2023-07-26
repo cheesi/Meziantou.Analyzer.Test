@@ -1,0 +1,2 @@
+# A property named {Value} should be of type Guid
+Value;System.Guid
